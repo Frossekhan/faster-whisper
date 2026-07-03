@@ -12,3 +12,4 @@ print("Language:", info.language)
 
 for segment in segments:
     print(segment.text)
+    
